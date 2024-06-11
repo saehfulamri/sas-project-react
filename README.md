@@ -43,7 +43,7 @@ To create this project locally, follow these steps:
     code .
     ```
     
-4. Install the dependencies seperti tailwindcss bila diperlukan. Selengkapnya ikuti panduan install tailwindcss [Di Sini](https://tailwindcss.com/docs/guides/create-react-app):
+4. Install the dependencies seperti tailwindcss bila diperlukan. Selengkapnya ikuti panduan install tailwindcss [Di Sini](https://tailwindcss.com/docs/guides/create-react-app) :
     ```bash
     npm install -D tailwindcss
     npx tailwindcss init
@@ -60,7 +60,7 @@ To create this project locally, follow these steps:
 2. Fill in the post form and click on "Add Post" to submit your post to Local Storage.
 3. Anda bisa menghapus data post dengan menekan tombol "Delete" berwarna merah.
 
-## Pengumpulan Tugas
+## PengumpulanTugas
 
 1. Buat akun vercel.com
 2. Buat repository di github dengan nama sas-project-react
